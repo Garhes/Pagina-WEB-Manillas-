@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zona de Pago con PSE</title>
+    <link rel="stylesheet" href="pse.css">
+    <script src="https://checkout.epayco.co/checkout.js"></script>
+</head>
+<body>
+    <div class="payment-form-container">
+        <h2>Pagar con PSE</h2>
+        <form id="payment-form">
+            <div class="form-group">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Teléfono:</label>
+                <input type="tel" id="phone" required>
+            </div>
+            <div class="form-group">
+                <label for="bank">Banco:</label>
+                <select id="bank" required>
+                    <option value="" disabled selected>Seleccione su banco</option>
+                    <option value="" disabled selected>BANCOLOMBIA</option>
+                    <option value="" disabled selected>BANCO AV VILLAS</option>
+                    <option value="" disabled selected>BANCO DE BOGOTA</option>
+                    <option value="" disabled selected>NEQUI</option>
+                </select>
+            </div>
+            <button id="submit-button" type="submit">Pagar con PSE</button>
+            <div id="payment-errors" role="alert"></div>
+        </form>
+    </div>
+    <script src="pse.js"></script>
+</body>
+</html>
+

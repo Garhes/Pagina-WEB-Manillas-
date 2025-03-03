@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seleccionar Método de Pago</title>
+    <link rel="stylesheet" href="pasarela.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Selecciona tu Método de Pago</h1>
+        <form id="paymentForm">
+            <div class="payment-method">
+                <input type="radio" id="creditCard" name="paymentMethod" value="pago_Tarjeta">
+                <label for="creditCard">
+                    <img src="Imagenes/credito.jpg" alt="Tarjeta de Crédito">
+                </label>
+            </div>
+            <div class="payment-method">
+                <input type="radio" id="paypal" name="paymentMethod" value="pago_Paypal">
+                <label for="paypal">
+                    <img src="Imagenes/paypal.jpg" alt="PayPal">
+                </label>
+            </div>
+            <div class="payment-method">
+                <input type="radio" id="bankTransfer" name="paymentMethod" value="pago_Pse">
+                <label for="bankTransfer">
+                    <img src="Imagenes/pse.jpg" alt="Pago por Pse">
+                </label>
+            </div>
+            <div class="payment-method">
+                <input type="radio" id="nequi" name="paymentMethod" value="pago_Nequi">
+                <label for="nequi">
+                    <img src="Imagenes/nequi.jpg" alt="Nequi">
+                </label>
+            </div>
+            <button type="button" onclick="procesarPago()">Pagar</button>
+        </form>
+    </div>
+
+    <script>
+        function procesarPago() {
+            const metodoSeleccionado = document.querySelector('input[name="paymentMethod"]:checked');
+            if (metodoSeleccionado) {
+                const metodo = metodoSeleccionado.value;
+                window.location.href = metodo + ".html";
+            } else {
+                alert("Por favor, selecciona un método de pago.");
+            }
+        }
+    </script>
+</body>
+</html>
+
+
