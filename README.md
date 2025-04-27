@@ -1,74 +1,73 @@
-<img align="right" height="130" src="https://i.pinimg.com/736x/a6/2d/45/a62d45ddbe29cf42da820a576d9375e1.jpg"  />
+# 👋 ¡Hola, soy Garhes! 🚀
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Hola%2C+soy+Garhes.;Bienvenido+a+mi+GitHub!;Apasionado+por+el+desarrollo+y+la+innovaci%C3%B3n.🚀" alt="Typing SVG" />
+</p>
 
-<h1 align="left">¡Hola 👋! Me llamo Garhes. 🚀</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:43C6AC,100:F8FFAE&height=250&section=header&text=¡Bienvenido!&fontSize=40&fontColor=ffffff)
 
-###
+---
 
-<br clear="both">
+## 👨‍💻 Sobre mí:
 
-<p align="left">🔭 Soy estudiante de ingeniería de sistemas, en mi repositorio encontrarás cursos y mini proyectos que he creado.<br><br>⚡ Dato curioso: uso tabulaciones en lugar de espacios.</p>
+- 🎓 Estudiante de **Ingeniería de Sistemas** en constante evolución.
+- 💻 Apasionado por el **desarrollo web**, **backend** y **blockchain**.
+- ☕ El café corre por mis venas.
+- ⚡ Fun Fact: Uso **tabulaciones** y moriré defendiendo esa decisión.
 
-###
+---
+<img align="right" height="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+## 🛠️ Tecnologías y herramientas que uso:
 
-<br clear="both">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,mysql,solidity,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📈 Mi actividad en GitHub:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garhes&radius=15&theme=react&area=true&order=5" height="270" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garhes&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Garhes&show_icons=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garhes&theme=react" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garhes&radius=16&theme=react-dark" height="270"/>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🚀 Actualmente trabajando en:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="50" alt="solidity logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-</div>
+- 🔭 Mejorando mis habilidades en **Solidity**.
+- 🧩 Construyendo proyectos en **PHP + MySQL**.
+- 🎯 Proyecto activo: Sistema de Reservas y Gestión de Restaurantes.
 
-###
+---
 
-<br clear="both">
+## 📬 Conecta conmigo:
 
-<img align="right" height="150" src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif"  />
+<p align="center">
+  <a href="https://instagram.com/jags_10"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/johan-garcia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discord.com/users/jags_10"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://twitter.com/Andrsga7209418"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitch.tv/Garhes"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+</p>
 
-###
+---
 
-<h2 align="left">Me puedes encontrar en:</h2>
+## 🎯 Pequeñas Grandes Victorias:
 
-###
+- 🏆 Participante de Hacktoberfest 2025.
+- 👨‍💻 Primer Pull Request aprobado 🚀.
+- 📈 Más de **500 contribuciones** este año.
+- 🌟 Cada día mejorando un 1% más.
 
-<br clear="both">
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=@jags_10&logo=instagram&label=Instagram&color=cb3e00&logoColor=ffffff&labelColor=000000&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=jags_10&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=johan%20garcia&logo=linkedin&label=LinkedIn&color=0077B5&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=@Andrsga7209418&logo=twitter&label=Twitter&color=1DA1F2&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Garhes&logo=twitch&label=Twitch&color=9146FF&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="twitch logo"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Garhes&label=Visitas&color=brightgreen" alt="Profile views" />
+</p>
 
-###
+---
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garhes/Garhes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garhes/Garhes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Garhes/Garhes/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+> **_"El código bien escrito se siente como magia."_** – Garhes 🔮
